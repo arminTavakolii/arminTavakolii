@@ -1,7 +1,7 @@
 ```php
 $personalInfo = [
     'name' => 'Armin',
-    'birthday' => '4 jan 2003',
+    'birthday' => '4 jan',
     'skills' => [
         'frontend' => ['html','css','javascript , ...'],
         'backend' => ['php','laravel','restful api , ...']
