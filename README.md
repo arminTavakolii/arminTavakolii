@@ -9,5 +9,5 @@ $personalInfo = [
 ];
 $json = json_encode($personalInfo, JSON_PRETTY_PRINT);
 http_response_code(202);
-echo $json;
+echo $json; 
 ```
