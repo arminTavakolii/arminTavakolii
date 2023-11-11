@@ -1,6 +1,6 @@
 ```php
 $personalInfo = [
-    'name' => 'Armin',
+    'name' => 'Armin Tavakoli',
     'birthday' => '4 jan',
     'skills' => [
         'frontend' => ['html','css','javascript , ...'],
