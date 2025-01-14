@@ -1,4 +1,3 @@
-I would be very grateful if you like PHFlow repository :)
 ```php
 $personalInfo = [
     'name' => 'Armin Tavakoli',
