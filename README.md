@@ -3,7 +3,7 @@ $personalInfo = [
     'name' => 'Armin Tavakoli',
     'birthday' => '4 jan',
     'skills' => [
-        'frontend' => ['html','css','javascript , vue js , ...'],
+        'frontend' => ['html','css','javascript' , 'vue js , ...'],
         'backend' => ['php','laravel','restful api , ...']
     ],
 ];
